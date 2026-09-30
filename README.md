@@ -6,9 +6,8 @@ You can read step by step @ [My View](https://myview.rahulnivi.net/pipes-angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Download Code
 
-[github](https://github.com/rahulsahay19/ng-Pipe-demo)
+[github](https://github.com/ramonaoldf/ng-Pipe-demo)
 
 ## Demo
 
